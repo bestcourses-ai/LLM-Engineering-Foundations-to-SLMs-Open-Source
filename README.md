@@ -16,7 +16,7 @@ Pre- and post-training techniques include unsupervised pretraining, supervised f
 **Small Language Models (SLMs) of today can be as large as 70B parameters.
 
 ## Course Modules
-This course teaches you the fundamentals of LLMs, and will quickly onramp you up to the practical LLM Engineering edge.  When you complete this course, you will understand how the latest Large and Small Language Models are built, and you'll be ready to build, ship, and share your very own.  <br/>
+This [course](https://www.youtube.com/watch?v=xgcPRrq6NBw&list=PLXlph57qTv2q995tyxuu_6cb4vecx3uq0&index=1) teaches you the fundamentals of LLMs, and will quickly onramp you up to the practical LLM Engineering edge.  When you complete this course, you will understand how the latest Large and Small Language Models are built, and you'll be ready to build, ship, and share your very own.  <br/>
 ### Module 1: Transformer: Attention Is All You Need
 🤖 The Transformer <br/>
 🧐 Attention <br/>
